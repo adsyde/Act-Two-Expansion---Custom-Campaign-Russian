@@ -1,5 +1,0 @@
-{
-  "_comment": "Скопируйте в config/tools.local.json и укажите свои локальные пути. Файл tools.local.json в git не попадает.",
-  "divine_path": "C:/Tools/LSLib/Tools/Divine.exe",
-  "game_mods_dir": "C:/Users/<you>/AppData/Local/Larian Studios/Baldur's Gate 3/Mods"
-}
