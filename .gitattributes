@@ -1,0 +1,16 @@
+# У репозитория core.autocrlf=true, а скрипты пишут JSONL/XML с фиксированными
+# переводами строк. Без этого файла каждая перегенерация данных показывалась бы
+# как изменение всего файла целиком.
+* text=auto
+
+*.jsonl text eol=lf
+*.py    text eol=lf
+*.md    text eol=lf
+*.json  text eol=lf
+*.csv   text eol=lf
+
+# PowerShell 5.1 требует CRLF и UTF-8 BOM
+*.ps1   text eol=crlf
+
+*.pak   binary
+*.loca  binary
