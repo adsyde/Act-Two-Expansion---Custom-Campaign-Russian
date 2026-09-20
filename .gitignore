@@ -14,6 +14,9 @@ config/*.local.json
 scripts/local/
 # Внутренний регламент работы с ассистентом — остается локальным
 CLAUDE.md
+# Оснастка сборки и конфиг держатся локально: публикуется только сам перевод
+scripts/
+config/tools.json
 .env
 .claude/settings.local.json
 
