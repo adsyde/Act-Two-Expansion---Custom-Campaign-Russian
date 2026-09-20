@@ -1,0 +1,7 @@
+input/extracted/
+input/upstream/*.pak
+releases/*.pak
+data/batches/*_temp.jsonl
+*.pyc
+__pycache__/
+.env
