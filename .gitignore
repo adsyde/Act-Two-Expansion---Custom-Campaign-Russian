@@ -12,6 +12,8 @@ config/*.local.json
 !config/*.local.example.json
 # Личные вспомогательные скрипты (запуск игры, копирование в Mods и пр.)
 scripts/local/
+# Внутренний регламент работы с ассистентом — остается локальным
+CLAUDE.md
 .env
 .claude/settings.local.json
 

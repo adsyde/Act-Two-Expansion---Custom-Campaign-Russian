@@ -1,3 +1,5 @@
+![Act Two Expansion - Custom Campaign Russian](images/24689_1788047926.webp)
+
 # Act Two Expansion — русская локализация
 
 Патч-перевод мода [Act Two Expansion - Custom Campaign](https://www.nexusmods.com/baldursgate3)
@@ -5,6 +7,9 @@
 обновляется, перевод досинхронизируется, ничего из сделанного не теряется.
 
 Текущая версия апстрима: **0.8** (4987 строк).
+
+Состояние перевода: **1402 строки (28.1%)** готовы и входят в сборку.
+Непереведенные строки игра показывает по-английски.
 
 ## Быстрый старт
 
@@ -54,7 +59,8 @@ scripts\build_mod.ps1 -Version "0.1.0"
 
 ## Правила работы
 
-Регламент — [CLAUDE.md](CLAUDE.md). Ключевое:
+Подробности процесса — [docs/WORKFLOW.md](docs/WORKFLOW.md), терминология —
+[glossary/](glossary/). Ключевое:
 
 - `input/upstream/` неприкосновенен;
 - `contentuid` и `version` не генерируются и не меняются;
