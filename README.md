@@ -20,8 +20,9 @@
 
 ## Установка
 
-1. Скачайте `.pak` из раздела [Releases](../../releases).
-2. Положите его в `%LOCALAPPDATA%\Larian Studios\Baldur's Gate 3\Mods`.
+1. Скачайте архив из раздела [Releases](../../releases).
+2. Распакуйте и положите `.pak` в `%LOCALAPPDATA%\Larian Studios\Baldur's Gate 3\Mods`
+   — либо импортируйте архив целиком в BG3 Mod Manager.
 3. Включите мод в менеджере модов **после** оригинального Act Two Expansion.
 4. Язык игры — русский.
 
