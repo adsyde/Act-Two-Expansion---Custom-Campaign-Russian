@@ -1,7 +1,34 @@
+# --- Чужой контент и крупные бинарники: в репозиторий не попадает ---
+# Оригинальные .pak мода (сотни МБ, права принадлежат автору мода)
+input/upstream/*
+!input/upstream/.gitkeep
+!input/upstream/README.md
+# Распакованные исходники мода
 input/extracted/
-input/upstream/*.pak
-releases/*.pak
-data/batches/*_temp.jsonl
-*.pyc
-__pycache__/
+
+# --- Локальные, машинно-зависимые настройки: не утекают в сеть ---
+# Пути к LSLib/Divine, к папке игры и т.п. — у каждого свои
+config/*.local.json
+!config/*.local.example.json
+# Личные вспомогательные скрипты (запуск игры, копирование в Mods и пр.)
+scripts/local/
+# Внутренний регламент работы с ассистентом — остается локальным
+CLAUDE.md
+# Оснастка сборки и все, что ее описывает, держится локально:
+# публикуется только сам перевод
+scripts/
+config/
+docs/
+input/
 .env
+.claude/settings.local.json
+
+# --- Производные артефакты сборки ---
+build/
+package/
+generated/
+releases/
+
+# --- Python ---
+__pycache__/
+*.pyc
