@@ -1,9 +1,11 @@
 ![Act Two Expansion - Custom Campaign Russian](images/24689_1788047926.webp)
 
-# Act Two Expansion — русская локализация
+# Act Two Expansion - Custom Campaign - Russian
 
-Русский перевод мода [Act Two Expansion - Custom Campaign](https://www.nexusmods.com/baldursgate3)
-для Baldur's Gate 3 — отдельный мод-патч, который не трогает файлы оригинала.
+Русская локализация мода [Act Two Expansion - Custom Campaign](https://www.nexusmods.com/baldursgate3)
+для Baldur's Gate 3. Отдельный мод-патч: файлы оригинала не трогает, ставится рядом.
+
+В менеджере модов отображается как **Act Two Expansion - Custom Campaign - Russian**.
 
 | | |
 |---|---|
