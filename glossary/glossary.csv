@@ -1,7 +1,7 @@
 source,target,category,note
 Long Rest,Долгий отдых,gameplay,Термин официальной локализации BG3
 Short Rest,Короткий отдых,gameplay,Термин официальной локализации BG3
-saving throw,спасбросок,dnd,Правило D&D 5e
+Saving Throw,испытание,gameplay,"Так в офиц. локализации BG3; «спасбросок» — термин настолки, в игре его нет"
 Underdark,Подземье,location,Термин официальной локализации BG3
 Waypoint,путевая точка,gameplay,Интерфейсный термин
 shrine,святилище,location,Использовать святилище (не храм)
@@ -9,7 +9,7 @@ Shadow-Cursed Lands,Оскверненные тенью земли,location,Оф
 Zealot,ревнитель,creature,"Отличать от Fanatic -> фанатик"
 Fanatic,фанатик,creature,"Отличать от Zealot -> ревнитель"
 Acolyte,послушник,creature,Термин офиц. локализации BG3
-Absolute,Абсолют,faction,Термин офиц. локализации BG3
+Absolute,Абсолют,faction,"Имя не склоняется: «Слава Абсолют», «армия Абсолют» — как в офиц. локализации"
 True Soul,Истинная душа,faction,Ранг в культе Абсолюта
 Flaming Fist,Пламенный кулак,faction,Термин офиц. локализации BG3
 Wood Woad,древесный вайд,creature,Существо D&D
@@ -36,3 +36,7 @@ Dark Urge,Темный соблазн,background,Офиц. название пр
 Tav,Тав,character,Имя безымянного героя BG3
 Eladrin,эладрин,creature,Термин офиц. локализации D&D
 Meenlock,минлок,creature,Существо D&D
+Armour Class,класс брони,gameplay,"Термин офиц. локализации BG3; со строчной внутри LSTag, не «класс доспеха»"
+hit points,ОЗ,gameplay,"Термин офиц. локализации BG3; сокращение не склоняется, не «хиты»"
+temporary hit points,временные ОЗ,gameplay,Термин офиц. локализации BG3
+Virtuous Greaves,Поножи добродетели,item,Название предмета мода
