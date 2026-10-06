@@ -22,6 +22,9 @@
 
 ## Установка
 
+Изменения: [краткий ченджлог текущего релиза](CHANGELOG_SHORT.md) ·
+[подробная история всех версий перевода](CHANGELOG.md).
+
 1. Скачайте архив из раздела [Releases](../../releases).
 2. Распакуйте и положите `.pak` в `%LOCALAPPDATA%\Larian Studios\Baldur's Gate 3\Mods`
    — либо импортируйте архив целиком в BG3 Mod Manager.
