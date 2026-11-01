@@ -1,0 +1,250 @@
+[
+  {
+    "key": "Chionthar Wilds",
+    "trigger": "S_EventTrigger_Subregion_Wilds_a8f166ed-f257-4900-925a-ed4a6e6ee457",
+    "contentuid": "h6fac46begf466g0823g7a93g8c04bf8e1d4f",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 1
+  },
+  {
+    "key": "Shadow-Cleansed Lands",
+    "trigger": "S_EventTrigger_Subregion_ShadowCleansedLands_93433399-dc49-40e6-b528-15d9bc863a94",
+    "contentuid": "h3d184433g635cg7f4bg2ec0g34c444d64eb2",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 2
+  },
+  {
+    "key": "Feybloom Hollow",
+    "trigger": "S_EventTrigger_Subregion_FeybloomHollow_a8540a21-5aa3-4bd2-9bea-062f5a5cf20c",
+    "contentuid": "h07c707f9g6a8fgf22cgde45gd13a1e522d6f",
+    "version": 32,
+    "show_marker": 1,
+    "priority": 2
+  },
+  {
+    "key": "Anga Vled Outskirts",
+    "trigger": "S_EventTrigger_Subregion_AngaVledOutskirts_e8cfc4cc-5c6e-4d0b-a486-8da540e5bfca",
+    "contentuid": "hdf6efb9cg4f38gb7abg2c55g8dea3dc162be",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 2
+  },
+  {
+    "key": "Anga Vled",
+    "trigger": "S_EventTrigger_Subregion_AngaVled_f55c5c3b-60ba-44c1-8b41-1e36ef9dcf5f",
+    "contentuid": "h09215b38g81cdgfab3gce43g5842fed95c2d",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 3
+  },
+  {
+    "key": "Abandoned Fort",
+    "trigger": "S_EventTrigger_Subregion_RingFort2_382aadfb-d909-4412-bbfd-7471014236f6",
+    "contentuid": "h6b48870egc256g5883gace6g317a4f8798c0",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 3
+  },
+  {
+    "key": "Fields of the Dead",
+    "trigger": "S_EventTrigger_Subregion_FieldsOfTheDead_2716003d-13b9-4519-b97a-ee63e828a250",
+    "contentuid": "ha293cccag5c87g6dd8gbdb6gba50c2e04c54",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 2
+  },
+  {
+    "key": "Chionthar Woodlands",
+    "trigger": "S_EventTrigger_Subregion_ChiontharWoodlands_6643a0ed-92b0-4501-a150-7b028f55f9df",
+    "contentuid": "h480133b3g1caeg6e2fgb911g352b1fc4ed88",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 2
+  },
+  {
+    "key": "Druid Vault",
+    "trigger": "S_EventTrigger_Subregion_DruidVault_afe02db3-cfdb-4c3b-9a89-57b02b6ea16d",
+    "contentuid": "h53c91612g232ag5621gb135g90d9d9d42f71",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 2
+  },
+  {
+    "key": "Sunrise Spire",
+    "trigger": "S_EventTrigger_Subregion_SunriseSpire_f1f632b9-fa84-4833-a2ba-72f6838f474b",
+    "contentuid": "hda3e7ad7g60f6g3f9fgad69gcb1f5f1816be",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 4
+  },
+  {
+    "key": "Sunrise Vineyard",
+    "trigger": "S_EventTrigger_Subregion_Vineyard_b73bf3d4-5017-4d4d-a5cf-f240c5b0a6c9",
+    "contentuid": "hae889b5fg8659g6e34gbfb1geada025ba674",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 3
+  },
+  {
+    "key": "Ferry",
+    "trigger": "S_EventTrigger_Subregion_Ferry_cb1c8e2d-4e00-4a3b-a71d-755d6b439dec",
+    "contentuid": "h82af444dg1899gad8ag9b20g276a7959da93",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 4
+  },
+  {
+    "key": "Ruined Fort",
+    "trigger": "S_EventTrigger_Subregion_RingFort_da0a7aaf-47e9-4e49-9c8c-0a6da805c70a",
+    "contentuid": "h030dc65aga790g5a6fg90e1g4447f18dd2e9",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 3
+  },
+  {
+    "key": "Plains",
+    "trigger": "S_EventTrigger_Subregion_Mountains_485f8b86-9c48-4a4a-8728-0803c90bd7b8",
+    "contentuid": "h8ce713a1g3b72gcc62gc17bg0077917e49c1",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 3
+  },
+  {
+    "key": "Minotaur Camp",
+    "trigger": "S_EventTrigger_Subregion_MinotaurCamp_1ac638ed-c498-4651-ad4b-da791b91e74c",
+    "contentuid": "hc4920aa9g4a10g5054g9f4ag1c14cb58ef3b",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 4
+  },
+  {
+    "key": "Sawmill",
+    "trigger": "S_EventTrigger_Subregion_Sawmill_ef30f42e-56ee-4ffa-ba3b-be795e6e2fa0",
+    "contentuid": "h92d28b24g289eg12fbg9789gf97c2e9c68cb",
+    "version": 2,
+    "show_marker": 1,
+    "priority": 2
+  },
+  {
+    "key": "Camp",
+    "trigger": "S_EventTrigger_Subregion_Camp_ff54c781-fe2e-4325-b9d2-7e4aff2297cc",
+    "contentuid": "hbfa2a383g7fe4g547ag94f0g65d7a5b5b8f5",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 2
+  },
+  {
+    "key": "Vineyard Cellar",
+    "trigger": "S_EventTrigger_Subregion_VineyardCellar_09ec86cf-251f-40bf-a5a8-1c25b67271b7",
+    "contentuid": "haf54781fg38cdg5389g802fg7d1f665e340a",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 2
+  },
+  {
+    "key": "Windmill Cellar",
+    "trigger": "S_EventTrigger_Subregion_WindmillCellar_284e6dfe-344e-4ca8-9333-dec6dcd79c1b",
+    "contentuid": "h904af597gaeadg5445gac59g6b4bba1c7ed8",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 2
+  },
+  {
+    "key": "Sunrise Spire Vaults",
+    "trigger": "S_EventTrigger_Subregion_SunriseSpireVaults_2900002a-b73a-4d38-90f0-2f0b7f1445a1",
+    "contentuid": "hc6e72cdbg0d5fg8761g56e6g6448eb794e26",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 2
+  },
+  {
+    "key": "Coastal Cave",
+    "trigger": "S_EventTrigger_Subregion_CoastalCave_8bfd91de-933d-4ce0-a625-a1a1b5479e32",
+    "contentuid": "h498e21feg3dd0g5d4dg8174g52c384c35f15",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 2
+  },
+  {
+    "key": "Anga Vled Mines",
+    "trigger": "S_EventTrigger_Subregion_AngaVledMines_a852c4b3-5079-4336-ac9b-2450882fa5e3",
+    "contentuid": "hce621eacg59c0gbef6gd091g890c9257b100",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 2
+  },
+  {
+    "key": "Druid Sanctum",
+    "trigger": "S_EventTrigger_Subregion_DruidSanctum_fea64290-34e3-4859-a787-5a98399c6cd9",
+    "contentuid": "h0d08f225g31dag73d9g7f8cg2eaf5902bab1",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 2
+  },
+  {
+    "key": "Absolute War Camp",
+    "trigger": "S_EventTrigger_Subregion_AbsoluteWarCamp_7c1b52d1-1803-42aa-9a71-e9bd7a78223a",
+    "contentuid": "h670c4819g0ba1g1a4ag5291gff0e60d805fc",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 2
+  },
+  {
+    "key": "Chionthar River",
+    "trigger": "S_CHI_EventTrigger_SubRegion_ChiontharRiver_6fb7e145-6b8f-4a4a-b27f-798f3f06586a",
+    "contentuid": "hdb75733egcb42g5c6cg83efg42ecb5000085",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 1
+  },
+  {
+    "key": "Rivington Outskirts",
+    "trigger": "S_CHI_EventTrigger_SubRegion_RivingtonOutskirts_85e74135-fdd8-478a-b991-c2545052fb4a",
+    "contentuid": "h84895ed5g9f93g5d00ge584g252c3a1bfd9a",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 1
+  },
+  {
+    "key": "Siege Camp",
+    "trigger": "S_CHI_EventTrigger_SubRegion_SiegeCamp_c2304c1b-0f6a-45a9-bd2b-8ba8a37367e5",
+    "contentuid": "h49313916g6e52g532eg8c96g5291fdee4b88",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 2
+  },
+  {
+    "key": "Cultist Bulwark",
+    "trigger": "S_CHI_EventTrigger_SubRegion_RuinedRoad_794ce2eb-d03d-4c3c-baa3-8cbd70ead626",
+    "contentuid": "h3e945700gb35dg5ae4gb7cbg773c5b5ce659",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 2
+  },
+  {
+    "key": "Ruined Courtyard",
+    "trigger": "S_CHI_EventTrigger_SubRegion_RuinedVillage_b4b9b671-3975-4f51-8405-70cc9dde2400",
+    "contentuid": "h136a40d3g6d32g5a19gae38g83a6fbf0020e",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 2
+  },
+  {
+    "key": "Estate",
+    "trigger": "S_CHI_EventTrigger_SubRegion_Estate_8d82d711-e29f-4149-9283-0121ff7a8c12",
+    "contentuid": "h4abd26d0ga1f0g578egbe0bgd834d51e0457",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 2
+  },
+  {
+    "key": "Wyrm's Lookout",
+    "trigger": "S_CHI_EventTrigger_SubRegion_WyrmsLookout_88fc2956-a284-44e0-841b-d1aa281d8ddb",
+    "contentuid": "h3da0bbefgdf89g0f30g1b97g54c74411daee",
+    "version": 1,
+    "show_marker": 1,
+    "priority": 1
+  }
+]

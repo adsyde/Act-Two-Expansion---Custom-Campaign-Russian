@@ -1,0 +1,22 @@
+[
+  {
+    "key": "Return",
+    "contentuid": "h4a2fc48dge4a7g5935gb754gafdddf567cd9",
+    "version": 1,
+    "files": [
+      "Mods/ActTwoExpansion_41ec643a-e2ad-e69d-52c2-920a6f4a98ad/Story/RawFiles/Goals/Z_CHI_AcrossTheRiver.txt",
+      "Mods/ActTwoExpansion_41ec643a-e2ad-e69d-52c2-920a6f4a98ad/Story/RawFiles/Goals/Z_CHI_FerryEvents.txt",
+      "Mods/ActTwoExpansion_41ec643a-e2ad-e69d-52c2-920a6f4a98ad/Story/RawFiles/Goals/Z_CHI_WyrmsLookout.txt"
+    ]
+  },
+  {
+    "key": "Venture Forth",
+    "contentuid": "h7f7b242egbf87g59d7gbb61g1a4834354b91",
+    "version": 1,
+    "files": [
+      "Mods/ActTwoExpansion_41ec643a-e2ad-e69d-52c2-920a6f4a98ad/Story/RawFiles/Goals/Z_CHI_AcrossTheRiver.txt",
+      "Mods/ActTwoExpansion_41ec643a-e2ad-e69d-52c2-920a6f4a98ad/Story/RawFiles/Goals/Z_CHI_FerryEvents.txt",
+      "Mods/ActTwoExpansion_41ec643a-e2ad-e69d-52c2-920a6f4a98ad/Story/RawFiles/Goals/Z_CHI_WyrmsLookout.txt"
+    ]
+  }
+]
